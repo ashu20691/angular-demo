@@ -1,0 +1,66 @@
+{
+  "cod": "200",
+  "message": 0.009,
+  "city": {
+    "id": 6058560,
+    "name": "London",
+    "coord": {
+      "lon": -81.23304,
+      "lat": 42.983391
+    },
+    "country": "CA",
+    "population": 0,
+    "sys": {"population": 0}
+  },
+  "cnt": 2,
+  "list": [
+    {
+      "dt": 1436634000,
+      "temp": {
+        "day": 290.15,
+        "min": 288.09,
+        "max": 290.15,
+        "night": 288.09,
+        "eve": 290.15,
+        "morn": 290.15
+      },
+      "pressure": 996.36,
+      "humidity": 84,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03n"
+        }
+      ],
+      "speed": 0.53,
+      "deg": 302,
+      "clouds": 48
+    },
+    {
+      "dt": 1436720400,
+      "temp": {
+        "day": 298.41,
+        "min": 288.66,
+        "max": 299.03,
+        "night": 288.66,
+        "eve": 297.21,
+        "morn": 292.4
+      },
+      "pressure": 994.29,
+      "humidity": 77,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ],
+      "speed": 2.11,
+      "deg": 213,
+      "clouds": 36
+    }
+  ]
+}
